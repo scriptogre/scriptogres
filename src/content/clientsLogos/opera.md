@@ -1,5 +1,5 @@
 ---
-url: https://operacro.com/
-cover: "../../assets/images/client-logo-opera.webp"
-coverAlt: Opera logo
+url: https://altm.ro/
+cover: "../../assets/images/client-logo-altm.webp"
+coverAlt: Altm logo
 ---
